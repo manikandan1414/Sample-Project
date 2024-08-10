@@ -1,0 +1,18 @@
+                                         PORT
+
+1.Ports are an integral part of the internet's communication model.
+2.All communication over the internet is exchanged via ports.
+3.Every IP address contains two kinds of ports, VDP and TCP and TCP ports, and there are up to 65535 of each for any given 
+  IP address.
+
+                               HTTP METHODS
+
+1. The primary or most commonly used HTTP methods are POST, GET, PUT, PATCH and DELETE.
+2. These methods correspond to create, read, update, and delete (or CRUD) operations, respectively.
+3. There are a number of other methods, too, but they are utilized less frequently.
+
+                              MAC ADDRESS
+
+1. A MAC address (short for medium access control address) is a unique identifier assigned to a network interface controller
+   (NIC) for use as a network address in communications within a network segment.
+2. This use is common in most IEEE 802 networking technologies, including Ethenet,wi-fi, and bluetooth.
