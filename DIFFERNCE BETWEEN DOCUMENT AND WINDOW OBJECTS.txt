@@ -1,0 +1,5 @@
+                             DIFFERNCE BETWEEN DOCUMENT AND WINDOW OBJECTS
+ 
+  1. The window is the first thing loaded into the browser.
+  2. The document object is defined as any document that gets loaded inside the window object, such as HTML, ASPX, or PHP,
+     and has properties such as cookies, title, and URL, to name few.
